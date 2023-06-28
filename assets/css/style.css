@@ -1078,6 +1078,9 @@ main {
 .project-category {
   margin-left: 10px;
 }
+.project-date {
+  margin-left: 10px;
+}
 
 .project-title {
   color: var(--white-2);
@@ -1088,6 +1091,11 @@ main {
 }
 
 .project-category {
+  color: var(--light-gray-70);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
+}
+.project-date {
   color: var(--light-gray-70);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
